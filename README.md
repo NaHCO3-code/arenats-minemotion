@@ -39,7 +39,7 @@ box.parent = ui;
 })();
 ```
 效果：
-![](https://static.codemao.cn/pickduck/B1AYZT2Zyl.gif?hash=FlseCEYBuSsEz6d4NrmFSbu-QiW4)
+![](https://static.codemao.cn/pickduck/rkeYhTh-kx.gif?hash=FgTcHWUYxdyQDRPghdjzFeYTKTuc)
 
 # API
 ## MineMotion.fromTo(obj, duration, start, end, ease)

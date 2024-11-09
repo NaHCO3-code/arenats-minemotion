@@ -1,6 +1,6 @@
 {
   "name": "@dao3fun/mine-motion",
-  "version": "1.0.0-2",
+  "version": "1.0.0-3",
   "description": "简单的动画库",
   "main": "index.js",
   "scripts": {
