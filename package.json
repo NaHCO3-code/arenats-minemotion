@@ -1,0 +1,24 @@
+{
+  "name": "@dao3fun/mine-motion",
+  "version": "1.0.0-2",
+  "description": "简单的动画库",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "files": [
+    "./lib/**/*",
+    "./index.js",
+    "./index.d.ts",
+    "./README.md"
+  ],
+  "keywords": [
+    "arena",
+    "arenapro",
+    "dao3fun",
+    "animation"
+  ],
+  "author": "surfish <surfish.fun@outlook.com>",
+  "license": "MIT"
+}
